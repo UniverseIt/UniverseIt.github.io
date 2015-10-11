@@ -6,7 +6,7 @@
 
 .bodybuild {/*PODE VIR MONSTROOOOO*/
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../VisitaUSP/img/bg.jpg') no-repeat center center fixed;
+    background: #45ADA8 no-repeat center center fixed; /*url('../img/bg.jpg')*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -14,15 +14,22 @@
 }
 body {/*FRANGO*/
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/VisitaUSP/At0SpMSlMuC-lnjEW4rskgM6MsQdVEWZXxxj1Qt0BD93.jpg') no-repeat center center fixed;
+    background: #45ADA8 no-repeat center center fixed; /*url('../img/At0SpMSlMuC-lnjEW4rskgM6MsQdVEWZXxxj1Qt0BD93.jpg')*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+a {text-decoration:none;}
+h2 {
+ color: #FA6900;
+     text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -34,7 +41,7 @@ h6 {
 }
 
 p {
-    font-size: 1.25em;
+    font-size: 1.10em;
     line-height: 1.6;
     color: #000;
 }
