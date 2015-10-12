@@ -3,8 +3,8 @@
 #####Repositório oficial do site, onde ele vai continuar por 'um bom tempo'
 #####gh-pages <3
 
-> ##### * [Veja o site atual](http://UniverseIt.github.io)
-> ##### * [Página do Face](https://www.facebook.com/pages/Universe-It/111334529216997)
+>*#####[Veja o site atual](http://UniverseIt.github.io)
+>*#####[Página do Face](https://www.facebook.com/pages/Universe-It/111334529216997)
 
 
 
@@ -25,6 +25,7 @@ In the words of Abraham Lincoln:
 > Pardon my french
 
 *This text will be italic*
+
 **This text will be bold**
 
 **Everyone _must_ attend the meeting at 5 o'clock today.**
